@@ -1,0 +1,33 @@
+header,
+.left,
+.center,
+.right,
+footer {
+	color: orange;
+}
+
+.container {
+	width: 400px;
+}
+
+header {
+	width: 100%;
+	line-height: 100px;
+}
+
+.left {
+	width: 100%;
+	line-height: 200px;
+}
+
+.center {
+	width: 100%;
+	line-height: 400px;
+	margin-left: 0;
+}
+
+.right {
+	width: 100%;
+	line-height: 200px;
+	margin-left: 0;
+}
