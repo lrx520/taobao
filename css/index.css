@@ -1429,7 +1429,7 @@ footer .UI ul li{
 footer .UI ul li a{
     width: 1.74rem;
     height: 1.026rem;
-    margin-left: 0.5rem;
+    margin-left: 0.3rem;
     border-radius: 0.21rem;
     border: 2px solid #3d4047;
     background: #555965;
@@ -1438,7 +1438,7 @@ footer .UI ul li a{
     text-align: center;
     line-height: 1.026rem;
     text-decoration: none;
-    padding: 25px 0.46875rem;
+    padding: 14px 0.46875rem;
 }
 [data-dpr="2"] footer .UI ul li a{
     font-size: 26px;
